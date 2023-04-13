@@ -4,6 +4,8 @@
 
 ![Takeshi-619's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takeshi-619&show_icons=true)
 
+[![Takeshi-619's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takeshi-619)]
+
 <div align="center">
 
 ![GitHub Snake Light](https://github.com/Takeshi-619/Takeshi-619/raw/snack/github-snake.svg#gh-light-mode-only)
