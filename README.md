@@ -1,5 +1,3 @@
-[![](kokomi.jpg)](https://github.com/Takeshi-619)
-
 ### 👨‍💻 `let Takeshi-619: "Frontend Engineer" | "UI Designer" = "Frontend Engineer"`
 
 ![skills](https://skillicons.dev/icons?i=figma,blender,nextjs,nuxtjs,nestjs,prisma)
@@ -8,7 +6,7 @@
 
 <div align="center">
 
-![GitHub Snake Light](https://github.com/codelzn/codelzn/raw/snack/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/codelzn/codelzn/raw/snack/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/Takeshi-619/Takeshi-619/raw/snack/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/Takeshi-619/Takeshi-619/raw/snack/github-snake-dark.svg#gh-dark-mode-only)
 
 </div>
