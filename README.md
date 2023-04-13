@@ -1,6 +1,6 @@
 ### 👨‍💻 `let Takeshi-619: "Frontend Engineer" | "UI Designer" = "Frontend Engineer"`
 
-![skills](https://skillicons.dev/icons?i=figma,nextjs,reactjs,typescript)
+![skills](https://skillicons.dev/icons?i=figma,nextjs,react,tailwind,webpack,typescript)
 
 ![Takeshi-619's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takeshi-619&show_icons=true)
 
