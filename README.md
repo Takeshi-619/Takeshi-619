@@ -8,7 +8,4 @@
 
 <div align="center">
 
-![GitHub Snake Light](https://github.com/Takeshi-619/Takeshi-619/raw/snack/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/Takeshi-619/Takeshi-619/raw/snack/github-snake-dark.svg#gh-dark-mode-only)
-
 </div>
