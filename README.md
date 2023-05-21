@@ -1,4 +1,4 @@
-### 👨‍💻 `let Takeshi-619: "Frontend Engineer" | "Mark up Engineer" = "Frontend Engineer"`
+### 👨‍💻 `let Takeshi-619: "Effort" | "Dream" = "Frontend Engineer"`
 
 ![skills](https://skillicons.dev/icons?i=figma,nextjs,react,tailwind,webpack,typescript)
 
